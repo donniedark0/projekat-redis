@@ -1,0 +1,207 @@
+body {
+  font-family: 'Lato', sans-serif;
+  color: #4A4A4A;
+  height: 100%;
+  margin: 0;
+  background-image: url("pics/bck.jpg");
+  background-size: cover;
+}
+#login-form{
+    height: 200px;
+  display: flex;
+    width: 100%;
+  margin-top: 30px;
+}
+form {
+  width: 350px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+}
+form .form-field {
+  margin-bottom: 20px;
+}
+.form-button{
+  display: flex;
+}
+form input {
+  font-family: inherit;
+  width: 100%;
+  outline: none;
+  background-color: #fff;
+  border-radius: 4px;
+  border: none;
+  display: block;
+  padding: 0.9rem 0.7rem;
+  box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.16);
+  font-size: 17px;
+  color: #4A4A4A;
+  text-indent: 40px;
+}
+form button {
+  outline: none;
+  border: none;
+  cursor: pointer;
+  display: inline-block;
+  margin: 0 auto;
+  padding: 10px 10px;
+  background-color: #47AB11;
+  color: #fff;
+  border-radius: 4px;
+  box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.16);
+  font-size: 17px;
+}
+.main-div{
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+#category{
+  background-color: rgb(255, 255, 255);
+  width: 25%;
+  height: 100vh;
+  float: left;
+  overflow-y: scroll;
+  box-shadow: 5px 10px 10px 0 grey;
+}
+#all-categories{
+    display: flex;
+    flex-direction: column;
+}
+.single-category{
+  margin-top: 20px;
+  min-height: 130px;
+  border-top: solid black 1px;
+}
+.cat-name-buttons{
+  height: 70px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  position: relative;
+}
+.edit-delete{
+  margin: 5px;
+  background-color: white;
+  border: solid #f0e5d3 1px;
+  transition-duration: 0.4s;
+  color: black;
+  border-radius: 5px;
+  width: 25px;
+  height: 25px;
+}
+.edit-delete:hover{
+  background-color: #f0e5d3;
+  color: white;
+}
+.category-name{
+  width: 50%;
+  float: left;
+  padding-left: 30px;
+}
+.ingredients-list{
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  align-items: center;
+}
+.add-ing-btn{
+  margin-left: 30%;
+  margin-bottom: 20px;
+
+  background-image: linear-gradient(#f0e5d3, #f1dab5);
+  border: 1px solid #a19685;
+  border-radius: 4px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  direction: ltr;
+  display: block;
+  min-width: 30px;
+  overflow: visible;
+  padding: 4px 15px;
+  text-align: center;
+  color: black;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  white-space: nowrap;
+  
+}
+.single-ingredient{
+  border: 1px solid #a19685;
+  color: #524c44;
+  display: flex;
+  align-items: center;
+  float: left;
+  border-radius: 5px;
+  margin: 5px;
+}
+#recipes{
+  width: 75%;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  overflow-y: scroll;
+  justify-content: space-around;
+}
+.single-recipe{
+    width: 300px;
+  height: 400px;
+  margin-top: 30px;
+  float: left;
+  border: solid #f0e5d3 3px;
+  border-radius: 5%;
+  background-color:#f0e5d3;
+  transition-duration: 0.3s;
+  padding: 10px;
+}
+.recipe-pic{
+  width: 100%;
+  height: 50%;
+  border-radius: 5%;
+}
+.recipe-ing-list{
+  width: inherit;
+  height: 20%;
+  margin-top: -10%;
+  margin-left: 10px;
+}
+.recipe-desc{
+  height: 20%;
+  overflow: hidden;
+}
+.big-single-recipe{
+  width: 100%;
+  height: 100%;
+  background-color:#f0e5d3;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+}
+.recipe-info-div{
+  display: flex;
+  flex-direction: row;
+}
+.recipe-big-picture{
+  width: 500px;
+  height: 300px;
+}
+.ingredient, .tag{
+  height: 20px;
+  float: left;
+  margin-left: 10px;
+  color: darkgreen;
+  padding-top: 0%;
+}
+
+
+.tag-big{
+  margin-right: 5px;
+}
+.tags-big-div{
+  display: flex;
+  flex-direction: row;
+}

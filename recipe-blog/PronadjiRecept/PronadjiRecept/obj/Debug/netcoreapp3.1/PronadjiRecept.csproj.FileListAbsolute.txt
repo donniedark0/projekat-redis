@@ -1,0 +1,212 @@
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\obj\Debug\netcoreapp3.1\PronadjiRecept.csprojAssemblyReference.cache
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\obj\Debug\netcoreapp3.1\PronadjiRecept.AssemblyInfoInputs.cache
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\obj\Debug\netcoreapp3.1\PronadjiRecept.AssemblyInfo.cs
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\obj\Debug\netcoreapp3.1\PronadjiRecept.csproj.CoreCompileInputs.cache
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\obj\Debug\netcoreapp3.1\PronadjiRecept.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\obj\Debug\netcoreapp3.1\PronadjiRecept.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\PronadjiRecept.exe
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\PronadjiRecept.deps.json
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\PronadjiRecept.runtimeconfig.json
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\PronadjiRecept.runtimeconfig.dev.json
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\PronadjiRecept.dll
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\PronadjiRecept.pdb
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Pipelines.Sockets.Unofficial.dll
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\StackExchange.Redis.dll
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\StackExchange.Redis.Extensions.AspNetCore.dll
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\StackExchange.Redis.Extensions.Core.dll
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\StackExchange.Redis.Extensions.Newtonsoft.dll
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\obj\Debug\netcoreapp3.1\staticwebassets\PronadjiRecept.StaticWebAssets.Manifest.cache
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\obj\Debug\netcoreapp3.1\staticwebassets\PronadjiRecept.StaticWebAssets.xml
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\obj\Debug\netcoreapp3.1\scopedcss\bundle\PronadjiRecept.styles.css
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\obj\Debug\netcoreapp3.1\PronadjiRecept.RazorTargetAssemblyInfo.cache
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\obj\Debug\netcoreapp3.1\PronadjiRecept.csproj.CopyComplete
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\obj\Debug\netcoreapp3.1\PronadjiRecept.dll
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\obj\Debug\netcoreapp3.1\PronadjiRecept.pdb
+C:\Users\darko\Desktop\NBP\projekat1\PronadjiRecept\PronadjiRecept\obj\Debug\netcoreapp3.1\PronadjiRecept.genruntimeconfig.cache
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\obj\Debug\netcoreapp3.1\PronadjiRecept.csprojAssemblyReference.cache
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\obj\Debug\netcoreapp3.1\PronadjiRecept.AssemblyInfoInputs.cache
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\obj\Debug\netcoreapp3.1\PronadjiRecept.AssemblyInfo.cs
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\obj\Debug\netcoreapp3.1\PronadjiRecept.csproj.CoreCompileInputs.cache
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\obj\Debug\netcoreapp3.1\PronadjiRecept.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\obj\Debug\netcoreapp3.1\PronadjiRecept.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\obj\Debug\netcoreapp3.1\PronadjiRecept.dll
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\obj\Debug\netcoreapp3.1\PronadjiRecept.pdb
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\PronadjiRecept.exe
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\PronadjiRecept.deps.json
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\PronadjiRecept.runtimeconfig.json
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\PronadjiRecept.runtimeconfig.dev.json
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\PronadjiRecept.dll
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\PronadjiRecept.pdb
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Pipelines.Sockets.Unofficial.dll
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\StackExchange.Redis.dll
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\StackExchange.Redis.Extensions.AspNetCore.dll
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\StackExchange.Redis.Extensions.Core.dll
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\StackExchange.Redis.Extensions.Newtonsoft.dll
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\obj\Debug\netcoreapp3.1\staticwebassets\PronadjiRecept.StaticWebAssets.Manifest.cache
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\obj\Debug\netcoreapp3.1\staticwebassets\PronadjiRecept.StaticWebAssets.xml
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\obj\Debug\netcoreapp3.1\scopedcss\bundle\PronadjiRecept.styles.css
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\obj\Debug\netcoreapp3.1\PronadjiRecept.RazorTargetAssemblyInfo.cache
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\obj\Debug\netcoreapp3.1\PronadjiRecept.csproj.CopyComplete
+C:\Users\darko\Desktop\baze propali pokusaji\projekat1\PronadjiRecept\PronadjiRecept\obj\Debug\netcoreapp3.1\PronadjiRecept.genruntimeconfig.cache
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\PronadjiRecept.exe
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\PronadjiRecept.deps.json
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\PronadjiRecept.runtimeconfig.json
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\PronadjiRecept.runtimeconfig.dev.json
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\PronadjiRecept.dll
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\PronadjiRecept.pdb
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Pipelines.Sockets.Unofficial.dll
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\StackExchange.Redis.dll
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\StackExchange.Redis.Extensions.AspNetCore.dll
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\StackExchange.Redis.Extensions.Core.dll
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\StackExchange.Redis.Extensions.Newtonsoft.dll
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\obj\Debug\netcoreapp3.1\PronadjiRecept.AssemblyInfoInputs.cache
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\obj\Debug\netcoreapp3.1\PronadjiRecept.AssemblyInfo.cs
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\obj\Debug\netcoreapp3.1\PronadjiRecept.csproj.CoreCompileInputs.cache
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\obj\Debug\netcoreapp3.1\PronadjiRecept.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\obj\Debug\netcoreapp3.1\PronadjiRecept.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\obj\Debug\netcoreapp3.1\staticwebassets\PronadjiRecept.StaticWebAssets.Manifest.cache
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\obj\Debug\netcoreapp3.1\staticwebassets\PronadjiRecept.StaticWebAssets.xml
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\obj\Debug\netcoreapp3.1\scopedcss\bundle\PronadjiRecept.styles.css
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\obj\Debug\netcoreapp3.1\PronadjiRecept.RazorTargetAssemblyInfo.cache
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\obj\Debug\netcoreapp3.1\PronadjiRecept.csproj.CopyComplete
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\obj\Debug\netcoreapp3.1\PronadjiRecept.dll
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\obj\Debug\netcoreapp3.1\PronadjiRecept.pdb
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\obj\Debug\netcoreapp3.1\PronadjiRecept.genruntimeconfig.cache
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\obj\Debug\netcoreapp3.1\PronadjiRecept.RazorAssemblyInfo.cache
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\obj\Debug\netcoreapp3.1\PronadjiRecept.RazorAssemblyInfo.cs
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\obj\Debug\netcoreapp3.1\PronadjiRecept.TagHelpers.input.cache
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\obj\Debug\netcoreapp3.1\PronadjiRecept.TagHelpers.output.cache
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\obj\Debug\netcoreapp3.1\PronadjiRecept.RazorCoreGenerate.cache
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\obj\Debug\netcoreapp3.1\PronadjiRecept.RazorTargetAssemblyInfo.cs
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\Views\Web.config
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\PronadjiRecept.Views.dll
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\bin\Debug\netcoreapp3.1\PronadjiRecept.Views.pdb
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\obj\Debug\netcoreapp3.1\PronadjiRecept.Views.pdb
+C:\Users\darko\Desktop\NBPpr\recipe-blog\PronadjiRecept\PronadjiRecept\obj\Debug\netcoreapp3.1\PronadjiRecept.csproj.AssemblyReference.cache
